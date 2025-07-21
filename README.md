@@ -11,6 +11,6 @@ Here you’ll find samples of my work and hands-on experience with:
 
 ## 📂 Projects
 - **Security Audit**: [Link](soon)
-- **Linux Permissions Task**: [Link](soon)
+- **Linux Permissions Task**: https://github.com/Mohaned87/cybersecurity-portfolio/blob/main/Linux_User_Management_Cybersecurity_Portfolio.pdf
 - **SQL Query Filters**: [Link](soon)
 
