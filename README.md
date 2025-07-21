@@ -1,6 +1,6 @@
 # Cybersecurity Portfolio
 
-Hi! I'm Mohanned Haşimioğlu. Welcome to my professional cybersecurity portfolio.  
+Hi! I'm Muhaned ALHASHIMY. Welcome to my professional cybersecurity portfolio.  
 Here you’ll find samples of my work and hands-on experience with:
 
 - Security audits
